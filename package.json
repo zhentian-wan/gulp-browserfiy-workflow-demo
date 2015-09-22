@@ -1,0 +1,22 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhentian <answer881215@gmail.com> (http://zhentian.herokuapp.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "6.3.0",
+    "browser-sync": "2.9.6",
+    "browserify": "11.1.0",
+    "exorcist": "0.4.0",
+    "gulp": "*",
+    "gulp-util": "3.0.6",
+    "vinyl-source-stream": "1.1.0",
+    "watchify": "3.4.0"
+  },
+  "dependencies": {}
+}
