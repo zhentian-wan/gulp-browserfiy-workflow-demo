@@ -13,3 +13,4 @@ gulp
 * Enable browserify
 * Enable browser-sync
 * Enable log
+* Enable source map
